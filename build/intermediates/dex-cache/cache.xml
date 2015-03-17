@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/liurenju/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/liurenju/AndroidStudioProjects/Sensor_Barometer/wear/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-987eb1a3e18156d2a2856b94533ae2f0504d3ea3.jar" />
+    </item>
+    <item
+        jar="/Users/liurenju/AndroidStudioProjects/Sensor_Barometer/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="/Users/liurenju/AndroidStudioProjects/Sensor_Barometer/wear/build/intermediates/pre-dexed/debug/classes-89835180b806d60bcf0bb8deeb324256ddd9c9ca.jar" />
+    </item>
+    <item
+        jar="/Users/liurenju/AndroidStudioProjects/Sensor_Barometer/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Users/liurenju/AndroidStudioProjects/Sensor_Barometer/wear/build/intermediates/pre-dexed/debug/classes-6eb31a0a2b55dd0384cac93cf982be19a8558170.jar" />
+    </item>
+    <item
+        jar="/Users/liurenju/AndroidStudioProjects/Sensor_Barometer/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Users/liurenju/AndroidStudioProjects/Sensor_Barometer/wear/build/intermediates/pre-dexed/debug/classes-f819956bed1ce5092b93ec5be40c212145e705d5.jar" />
+    </item>
+    <item
+        jar="/Users/liurenju/AndroidStudioProjects/Sensor_Barometer/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/liurenju/AndroidStudioProjects/Sensor_Barometer/wear/build/intermediates/pre-dexed/debug/classes-6d83bae5b2109565448e6ebdb5fa81c327a75f73.jar" />
+    </item>
+    <item
+        jar="/Users/liurenju/AndroidStudioProjects/Sensor_Barometer/wear/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/liurenju/AndroidStudioProjects/Sensor_Barometer/wear/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-1fc5f59752f61828d01fae670b64eb83f09021cc.jar" />
+    </item>
+    <item
+        jar="/Users/liurenju/AndroidStudioProjects/Sensor_Barometer/wear/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/liurenju/AndroidStudioProjects/Sensor_Barometer/wear/build/intermediates/pre-dexed/debug/classes-fa88a5b610d04793f43d7e28dbf4fca5059bd62b.jar" />
+    </item>
+
+</items>
